@@ -12,6 +12,8 @@ pylint = "*"
 ipython = "*"
 jupyter = "*"
 matplotlib = "*"
+jupyterlab = "*"
+seaborn = "*"
 
 
 [dev-packages]
